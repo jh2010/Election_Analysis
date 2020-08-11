@@ -3,8 +3,8 @@
 The purpose of this election audit is to provide deeper analysis of the election results. The information in this audit contains the voter turnout for each county, the percentage of votes from each county out of the total vote count, the county with the highest turnout and the individual candidate vote totals. 
 
 ### Election Audit Results
-* How many votes were cast in this congressional election?
-In this congressional electecion were cast 369,711 total votes.
+
+* In this congressional electecion were cast 369,711 total votes.
 I used a variable named **total_votes** to increment over the **election_results.csv** file within a **for loop**.
 ![image_name](https://github.com/jh2010/Election_Analysis/blob/master/images/total_votes.png)
 
