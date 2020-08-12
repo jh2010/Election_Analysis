@@ -20,7 +20,7 @@ This county vote totals result was achieved by creating a python dictionary name
 
 
 The county vote percentage of total votes was achieved by using a **for loop** to iterate through the **county_votes** dictionary.  For each county the county total votes was divided by the total votes for the election, then multipied by 100 and stored in a variable named **county_vote_percentage**.
-
+![image_name](https://github.com/jh2010/Election_Analysis/blob/master/images/votes_by_county_percentage.png)
 
 
 * Which county had the largest number of votes?
