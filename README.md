@@ -14,7 +14,7 @@ This result was acheived by using variable named **total_votes** to increment ov
   * Denver County had 306,055 votes (82.8% of the total votes)
   * Arapohoe County had 24,801 votes (6.7% of the total votes.
 
-This county vote totals result was achieved by creating a python dictionary named **county_votes**.  The **county_votes** dictonary was populated by using a **for loop** to increment through the **election_results.csv** and using an **if statement**.  The if statement added the **county name** to a list named **county_list** and then added the **county name** to the **county_votes** dictionary with an initial value of zero. On subsiquent iterations of the **for loop** the vote count for each county was incremented by on (e.g. county_votes[county_name] += 1).
+This county vote totals result was achieved by creating a python dictionary named **county_votes**.  The **county_votes** dictonary was populated by using a **for loop** to increment through the **election_results.csv** and using an **if statement**.  The **if statement** added the **county name** to a list named **county_list** and then added the **county name** to the **county_votes** dictionary with an initial value of zero. On subsiquent iterations of the **for loop** the vote count for each county was incremented by on (e.g. county_votes[county_name] += 1).
 ![image_name](https://github.com/jh2010/Election_Analysis/blob/master/images/votes_by_county_1.png)
 
 
