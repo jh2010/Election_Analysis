@@ -10,9 +10,9 @@ This result was acheived by using variable named **total_votes** to increment ov
 
 
 * Breakdown of votes by County and percentage of total votes
-* * Jefferson County had 38,855 votes (10.5 % of total votes)
-* * Denver County had 306,055 votes (82.8% of the total votes)
-* * Arapohoe County had 24,801 votes (6.7% of the total votes.
+ * Jefferson County had 38,855 votes (10.5 % of total votes)
+ * Denver County had 306,055 votes (82.8% of the total votes)
+ * Arapohoe County had 24,801 votes (6.7% of the total votes.
 
 
 
