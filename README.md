@@ -22,7 +22,7 @@ The county vote percentage of total votes was achieved by using a [for loop](htt
 
 
 * County with the largest number of votes
-**Denver** county had the largest voter turnout with **306,055** votes in this election.  This result was achieved by creating a variable named **county_largest_turnout_votes**, then an [if statement](https://docs.python.org/3/tutorial/controlflow.html) was created 
+**Denver** county had the largest voter turnout with **306,055** votes in this election.  This result was achieved by creating a variable named **county_largest_turnout_votes**, then an [if statement](https://docs.python.org/3/tutorial/controlflow.html) was used to add the county vote count to the **county_largest_turnout_votes**.  Once the for loop finished the county with the largest voter turnout was printed to the screen and saved to the text file.
 ![image_name](https://github.com/jh2010/Election_Analysis/blob/master/images/county_with_largest_turnout.png)
 
 * Number of votes and the percentage of the total votes each candidate received
