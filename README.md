@@ -6,7 +6,7 @@ The purpose of this election audit is to provide deeper analysis of the election
 
 * In this congressional electecion were cast 369,711 total votes.
 This result was acheived by using variable named **total_votes** to increment over the **election_results.csv** file within a **for loop**.
-![image_name](https://github.com/jh2010/Election_Analysis/blob/master/images/total_votes.png)
+![image_name](https://github.com/jh2010/Election_Analysis/blob/master/images/election_total_votes.png)
 
 
 * Breakdown of votes by County and percentage of total votes
