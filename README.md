@@ -11,6 +11,9 @@ The purpose of this election audit is to provide deeper analysis of the [congres
 This result was acheived by using variable named **total_votes** to increment over the **election_results.csv** file within a [for loop](https://www.w3schools.com/python/python_for_loops.asp).
 ![image_name](https://github.com/jh2010/Election_Analysis/blob/master/images/election_total_votes.png)
 
+#### Election Total Votes
+![image_name](https://github.com/jh2010/Election_Analysis/blob/master/images/total_votes.png)
+
 ---
 
 ### Breakdown of votes by County and percentage of total votes
