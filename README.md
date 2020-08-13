@@ -34,7 +34,7 @@ This **candidate vote totals** result was achieved by creating a python dictiona
 ![image_name](https://github.com/jh2010/Election_Analysis/blob/master/images/votes_by_candidate_totals.png)
 
 The candidate vote percentage of total votes was achieved by using a [for loop](https://www.w3schools.com/python/python_for_loops.asp) to iterate through the **candidate_votes** dictionary.  For each candidate the candidate total votes was divided by the total votes for the election, then multipied by 100 and stored in a variable named **candidate_vote_percentage**.  The **candidate_vote_percentage** was then printed to the screen an then written to the text file.
-![image_name](https://github.com/jh2010/Election_Analysis/blob/master/images/votes_by_candidate_totals_and_percentage.png)
+![image_name](https://github.com/jh2010/Election_Analysis/blob/master/images/votes_by_candidate_percentage.png)
 
 ---
 
