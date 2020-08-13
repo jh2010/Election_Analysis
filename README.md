@@ -7,7 +7,7 @@ The purpose of this election audit is to provide deeper analysis of the [congres
 
 ### Election Audit Results
 
-* In this congressional electecion were cast 369,711 total votes.
+* In this [congressional](https://www.congress.gov/) election were cast 369,711 total votes.
 This result was acheived by using variable named **total_votes** to increment over the **election_results.csv** file within a [for loop](https://www.w3schools.com/python/python_for_loops.asp).
 ![image_name](https://github.com/jh2010/Election_Analysis/blob/master/images/election_total_votes.png)
 
