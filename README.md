@@ -46,7 +46,10 @@ This result was achieved by creating variables named **winning_count**,**winning
 
 
 The [if statement](https://docs.python.org/3/tutorial/controlflow.html) checks if the **votes** variable is greater than the **winning_votes** variable and checks if the **vote_percentage** variable is greater than the **winning_percentage**.  If this statement is true then the variable **winning_count** will be set to the value of the **votes** variable and the **winning_candidate** variable will be set to the **candidate_name** variable, then the **winning_percentage** variable is set to the **vote_percentage** variable.
+![image_name](https://github.com/jh2010/Election_Analysis/blob/master/images/winning_candidate.png)
 
 After the winning candidate details were calculated, the three variables were added to a string formated python [list](https://www.w3schools.com/python/python_lists.asp), then printed to the terminal and written to a text file.
+
+![image_name](https://github.com/jh2010/Election_Analysis/blob/master/images/winning_candidate_terminal.png)
 
 ### Election Audit Summary
