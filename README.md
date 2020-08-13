@@ -37,7 +37,7 @@ The county vote percentage of total votes was achieved by using a [for loop](htt
 ![image_name](https://github.com/jh2010/Election_Analysis/blob/master/images/county_with_largest_turnout.png)
 
 #### County with the largest turnout result
-![image_name](https://github.com/jh2010/Election_Analysis/blob/master/images/county_with_largest_turnout.png)
+![image_name](https://github.com/jh2010/Election_Analysis/blob/master/images/largest_turnout_county.png)
 
 ---
 
