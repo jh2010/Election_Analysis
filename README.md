@@ -11,7 +11,7 @@ The purpose of this election audit is to provide deeper analysis of the [congres
 This result was acheived by using variable named **total_votes** to increment over the **election_results.csv** file within a [for loop](https://www.w3schools.com/python/python_for_loops.asp).
 ![image_name](https://github.com/jh2010/Election_Analysis/blob/master/images/election_total_votes.png)
 
-#### Election Total Votes
+#### Election total votes result
 ![image_name](https://github.com/jh2010/Election_Analysis/blob/master/images/total_votes.png)
 
 ---
@@ -27,13 +27,16 @@ This **county vote totals** result was achieved by creating a python dictionary 
 The county vote percentage of total votes was achieved by using a [for loop](https://www.w3schools.com/python/python_for_loops.asp) to iterate through the **county_votes** dictionary.  For each county, the county total votes were divided by the total votes for the election, then multiplied by 100 and stored in a variable named **county_vote_percentage**.  The **county_vote_percentage** was then printed to the terminal an then written to the text file.
 ![image_name](https://github.com/jh2010/Election_Analysis/blob/master/images/votes_by_county_percentage.png)
 
-#### County Vote Totals and Percentages
+#### County vote totals and percentages result
 ![image_name](https://github.com/jh2010/Election_Analysis/blob/master/images/county_votes.png)
 
 ---
 
 ### County with the largest number of votes
 **Denver** county had the largest voter turnout with **306,055** votes in this election.  This result was achieved by creating a variable named **county_largest_turnout_votes**, then an [if statement](https://docs.python.org/3/tutorial/controlflow.html) was used to add the county vote count to the **county_largest_turnout_votes**.  Once the [for loop](https://www.w3schools.com/python/python_for_loops.asp) finished the county with the largest voter turnout was printed to the terminal and saved to the text file.
+![image_name](https://github.com/jh2010/Election_Analysis/blob/master/images/county_with_largest_turnout.png)
+
+#### County with the largest turnout result
 ![image_name](https://github.com/jh2010/Election_Analysis/blob/master/images/county_with_largest_turnout.png)
 
 ---
@@ -44,6 +47,8 @@ This **candidate vote totals** result was achieved by creating a python dictiona
 
 The candidate vote percentage of total votes was achieved by using a [for loop](https://www.w3schools.com/python/python_for_loops.asp) to iterate through the **candidate_votes** dictionary.  For each candidate, the candidate total votes were divided by the total votes for the election, then multiplied by 100 and stored in a variable named **candidate_vote_percentage**.  The **candidate_vote_percentage** was then printed to the terminal and then written to the text file.
 ![image_name](https://github.com/jh2010/Election_Analysis/blob/master/images/votes_by_candidate_percentage.png)
+
+![image_name](https://github.com/jh2010/Election_Analysis/blob/master/images/candidate_vote_totals_and_percentages.png)
 
 ---
 
